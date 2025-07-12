@@ -43,3 +43,5 @@ All of this is packaged into a single PDF file stored in a reports directory. Th
 <img width="2970" height="1767" alt="Image" src="https://github.com/user-attachments/assets/466bade5-ed3c-4f16-a845-7275662eb78c" />
 
 <img width="2643" height="2366" alt="Image" src="https://github.com/user-attachments/assets/9c7f27fb-402d-4a22-91c0-9ba490aa9a52" />
+
+<img width="2520" height="1634" alt="Image" src="https://github.com/user-attachments/assets/04bc4a33-a1e6-4824-a5e4-3c2f6145a2cd" />
